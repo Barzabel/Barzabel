@@ -5,8 +5,8 @@
 [![Hexlet](https://img.shields.io/badge/Hexlet-profile-blue)](https://ru.hexlet.io/u/user-d8882f654fa6cc02)
 
  ------
-I am looking for a job as a python backend developer
- I am currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backend developer.
+I am looking for a job as a python backend developer.
+Now I am currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backend developer.
 
 ### My skills set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
