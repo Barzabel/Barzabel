@@ -14,7 +14,7 @@
 <a href="https://github.com/Barzabel/python-project-lvl2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barzabel&repo=python-project-lvl2&title_color=ffffff&text_color=c9cacb&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Midnight95/python-project-83">
+<a href="https://github.com/Barzabel/python-project-83">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barzabel&repo=python-project-83&title_color=ffffff&text_color=c9cacb&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Barzabel/flask_figlate">
