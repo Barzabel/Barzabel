@@ -1,3 +1,15 @@
+### Hello there! I am Andrey Kochenko! 
+
+[![Telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Barzabel523)
+[![CV](https://img.shields.io/badge/CV-View%20Resume-blue.svg)](https://cv.hexlet.io/ru/resumes/3191)
+[![Hexlet](https://img.shields.io/badge/Hexlet-profile-blue)](https://ru.hexlet.io/u/user-d8882f654fa6cc02)
+
+ ------
+
+ I am currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backend developer.
+
+
+
 
 
 ### My skills set
