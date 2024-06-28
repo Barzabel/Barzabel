@@ -40,3 +40,6 @@ Now I am currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backe
 <a href="https://github.com/Barzabel/flask_figlate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barzabel&repo=flask_figlate&title_color=fffff&text_color=c9cacb&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+<a href="https://github.com/Barzabel/python-project-52">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barzabel&repo=python-project-52&title_color=fffff&text_color=c9cacb&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
